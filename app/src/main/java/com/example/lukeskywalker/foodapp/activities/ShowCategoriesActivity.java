@@ -42,8 +42,6 @@ public class ShowCategoriesActivity extends Activity{
 
         final int position = getIntent().getIntExtra("position", 0);
 
-        final int[] food = new int[] {R.array.salads, R.array.soups, R.array.pizzas, R.array.meatMeals, R.array.vegetarianMeals, R.array.veganMeals, R.array.deserts}));
-
         final String[] food = getResources().getStringArray(R.array.salads);
         ArrayAdapter<String> dataAdapter = new ArrayAdapter<>(this, R.layout.list_item, food);
 
