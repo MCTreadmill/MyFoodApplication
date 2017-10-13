@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="opening">Welcome, to open the menu hit the button below</string>
+    <string name="button_menu">Menu</string>
+</resources>

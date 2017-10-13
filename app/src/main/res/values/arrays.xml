@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Salads</item>
+        <item>Soups</item>
+        <item>Pizzas</item>
+        <item>Meat meals</item>
+        <item>Vegetarian meals</item>
+        <item>Vegan meals</item>
+        <item>Deserts</item>
+    </string-array>
+
+
+    <string-array name="salads">
+        <item>Green Salad</item>
+        <item>Mixed Salad</item>
+        <item>Caprese Salad</item>
+        <item>Russian Salad</item>
+    </string-array>
+
+    <string-array name="soups">
+        <item>Tomato Soup</item>
+        <item>Mixed Veg Soup</item>
+        <item>Beef Bouillon</item>
+        <item>Veg Bouillon</item>
+    </string-array>
+
+    <string-array name="pizzas">
+        <item>Pizza Margharita</item>
+        <item>Pizza Prosciutto</item>
+        <item>Pizza Quattro Stagioni</item>
+        <item>Pizza Calzone</item>
+    </string-array>
+
+    <string-array name="meatMeals">
+        <item>Burek</item>
+        <item>Cevapcici</item>
+        <item>Pljeskavica</item>
+        <item>Sarma</item>
+    </string-array>
+
+    <string-array name="vegetarianMeals">
+        <item>Mac &amp; Cheese</item>
+        <item>Cheesepie</item>
+        <item>Baked Potatoes</item>
+        <item>Vegetarian Curry</item>
+    </string-array>
+
+    <string-array name="veganMeals">
+        <item>Fried Veggies</item>
+        <item>Sweet Potato &amp; Coconut Curry</item>
+        <item>Vegan Quesadillas</item>
+        <item>Tofu Peanut Butter Veg</item>
+    </string-array>
+
+    <string-array name="deserts">
+        <item>Ice Cream mix</item>
+        <item>Palacinke</item>
+        <item>Applepie</item>
+        <item>Chocolate Cake</item>
+    </string-array>
+
+</resources>
