@@ -25,15 +25,7 @@ public class ShowCategoriesActivity extends Activity{
 
     private int position;
 
-    /*private Category[] categories = new Category[]{
-            new Category("Salads"),
-            new Category("Soups"),
-            new Category("Pizzas"),
-            new Category("Meat Meals"),
-            new Category("Vegetarian Meals"),
-            new Category("Vegan Meals"),
-            new Category("Deserts")
-    };*/
+
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
